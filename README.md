@@ -32,6 +32,6 @@
 
 ## Manage Users
 #### The instructor can view and manage both assistants and users
-<img src="preview/manage-assistants.png"/>
-<img src="preview/view-users.png"/>
-<img src="preview/manage-users.png"/>
+<img src="preview/manage-assistants.jpeg"/>
+<img src="preview/view-users.jpeg"/>
+<img src="preview/manage-users.jpeg"/>
